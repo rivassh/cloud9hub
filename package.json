@@ -8,7 +8,7 @@
   "dependencies": {
     "connect-flash": "^0.1.1",
     "consolidate": "^0.10.0",
-    "express": "3.2.6",
+    "express": "4.19.2",
     "forever": "~0.10.11",
     "grunt": "~0.4.4",
     "grunt-cli": "~0.1.13",
